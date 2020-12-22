@@ -26,5 +26,5 @@ for data in adl:
     glostout.close()
 
     os.system('sbatch .../job_sbmt.sh')
-    os.chdir(r'/home/nrzj/projects/rrg-crowley-ac/nrzj/project/dataset_7')
+    os.chdir(r'... absolute path of your directory')
 
