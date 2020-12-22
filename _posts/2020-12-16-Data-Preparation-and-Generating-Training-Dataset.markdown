@@ -29,5 +29,5 @@ echo "Program glost_launch finished with exit code $? at: `date`"
 {% endhighlight %}
 
 Then we used python scripts to extract the coefficients and generate new HDF5 files. 
-You could see our python scripts for [submiting all molecules](https://github.com/NazaninRzj/Master_Project/Scripts/submitt_all_molecules.py) and for [genrating a new dataset](https://github.com/NazaninRzj/Master_Project/Scripts/generate_dataset.py). 
+You could see our python scripts for [submiting all molecules](https://github.com/NazaninRzj/Master_Project/blob/git-pages/Scripts/submit_all_molecules.py) and for [genrating a new dataset](https://github.com/NazaninRzj/Master_Project/blob/git-pages/Scripts/generate_dataset.py). 
 
