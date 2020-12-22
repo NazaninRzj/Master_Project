@@ -4,7 +4,6 @@ title: Introduction
 date: 2020-12-16
 description: This post will explain a bit about main concepts of my Master's project 
 img: compchem.jpg # Add image post (optional)
-fig-caption: # Add figcaption (optional)
 useMath: true
 ---
 Simulations of molecular systems require computational methods that can make an accurate prediction of intramolecular and intermolecular forces. In molecular  systems, the most significant forces are Pauli repulsion, electrostatic, and dispersion interactions. Ab initio methods have been developed to calculate these forces from the first principles of quantum mechanical models. Density Functional Theory (DFT) has been one of the most popular and successful of these models.  These models can calculate the Pauli repulsive and electrostatic energies from the first principles. Although these models typically omit dispersion interactions, methods have been developed to calculate dispersion interactions as a post-hoc correction to a DFT calculation.
@@ -23,7 +22,7 @@ The potential energy of London dispersion interaction ($V_disp$) can be approxim
   </div>
   
 
-where $$r_{ij}$$ is the distance between atomic pairs and the $$C_{n,ij}$$ are coefficients that depend on the chemical environment of the atom, such as its bonding partners and oxidation state. 
+where *r*~{ij}~ is the distance between atomic pairs and the *C*~{n,ij}~ are coefficients that depend on the chemical environment of the atom, such as its bonding partners and oxidation state. 
 
 ## Exchange-Hole Dipole Moment
 The exchange-hole dipole moment (XDM) model provides an ab initio method for calculating the atomic and molecular dispersion coefficients, which is in meaningful compromise with the empirical value. Despite the XDM computational precision, it requires a computationally intensive density-functionaltheory (DFT) calculation.
