@@ -5,6 +5,7 @@ date: 2020-12-16
 description: This post will explain a bit about main concepts of my Master's project 
 img: compchem.jpg # Add image post (optional)
 fig-caption: # Add figcaption (optional)
+useMath: true
 ---
 Simulations of molecular systems require computational methods that can make an accurate prediction of intramolecular and intermolecular forces. In molecular  systems, the most significant forces are Pauli repulsion, electrostatic, and dispersion interactions. Ab initio methods have been developed to calculate these forces from the first principles of quantum mechanical models. Density Functional Theory (DFT) has been one of the most popular and successful of these models.  These models can calculate the Pauli repulsive and electrostatic energies from the first principles. Although these models typically omit dispersion interactions, methods have been developed to calculate dispersion interactions as a post-hoc correction to a DFT calculation.
 
@@ -14,8 +15,6 @@ In recent years, researchers have employed neural networks to calculate molecula
 Dispersion interaction is a temporary attractive non-bonded force arising from the interaction between instantaneous dipole moments, which stems from fluctuations in the electron density of two atoms or molecules. Eventhough the dispersion interaction between a pair of atoms is weaker than other interactions (i.e., bonding electrostatic interactions or Pauli repulsion interaction), the dispersion energy plays a significant role in materials chemistry and biophysics, where dispersion interactions become significant in the condensed state.
 
 The potential energy of London dispersion interaction ($V_disp$) can be approximated by,
-
-$$x_{1,2} = {-b\pm\sqrt{b^2 - 4ac} \over 2a}.$$
 
 $$\mathcal{V}_{disp,ij}(\mathrm{r_{ij}})= -\sum_{n=6,8,10...} \frac{C_{n,ij}}{r_{ij}^n}$
 
