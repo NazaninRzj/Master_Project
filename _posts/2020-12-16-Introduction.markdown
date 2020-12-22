@@ -15,14 +15,9 @@ Dispersion interaction is a temporary attractive non-bonded force arising from t
 
 The potential energy of London dispersion interaction ($V_disp$) can be approximated by,
 
-<div class="math">
-  \begin{equation}
-  \mathcal{V}_{disp,ij}(\mathrm{r_{ij}})= -\sum_{n=6,8,10...} \frac{C_{n,ij}}{r_{ij}^n}
-  \end{equation}
-  </div>
-  
+$$\mathcal{V}_{disp,ij}(\mathrm{r_{ij}})= -\sum_{n=6,8,10...} \frac{C_{n,ij}}{r_{ij}^n}$$
 
-where *r*~ij~ is the distance between atomic pairs and the *C*~n,ij~ are coefficients that depend on the chemical environment of the atom, such as its bonding partners and oxidation state. 
+where $$r_{ij}$$ is the distance between atomic pairs and the *C*~n,ij~ are coefficients that depend on the chemical environment of the atom, such as its bonding partners and oxidation state. 
 
 ## Exchange-Hole Dipole Moment
 The exchange-hole dipole moment (XDM) model provides an ab initio method for calculating the atomic and molecular dispersion coefficients, which is in meaningful compromise with the empirical value. Despite the XDM computational precision, it requires a computationally intensive density-functionaltheory (DFT) calculation.
