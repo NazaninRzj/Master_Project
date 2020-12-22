@@ -13,13 +13,11 @@ In recent years, researchers have employed neural networks to calculate molecula
 ## London Disperison Interaction
 Dispersion interaction is a temporary attractive non-bonded force arising from the interaction between instantaneous dipole moments, which stems from fluctuations in the electron density of two atoms or molecules. Eventhough the dispersion interaction between a pair of atoms is weaker than other interactions (i.e., bonding electrostatic interactions or Pauli repulsion interaction), the dispersion energy plays a significant role in materials chemistry and biophysics, where dispersion interactions become significant in the condensed state.
 
-The potential energy of London dispersion interaction ($V_disp$) can be approximated by,
+The potential energy of London dispersion interaction (http://www.sciweavers.org/tex2img.php?eq=%5Cmathcal%20V_%7Bdisp%7D&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=) can be approximated by,
 
 ![LDF eqt](http://www.sciweavers.org/tex2img.php?eq=%5Cmathcal%7BV%7D_%7Bdisp%2Cij%7D%28%5Cmathrm%7Br_%7Bij%7D%7D%29%3D%20-%5Csum_%7Bn%3D6%2C8%2C10...%7D%20%5Cfrac%7BC_%7Bn%2Cij%7D%7D%7Br_%7Bij%7D%5En%7D%0A&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=)
 
-$$\mathcal{V}_{disp,ij}(\mathrm{r_{ij}})= -\sum_{n=6,8,10...} \frac{C_{n,ij}}{r_{ij}^n}$$
-
-where $$r_{ij}$$ is the distance between atomic pairs and the *C*~n,ij~ are coefficients that depend on the chemical environment of the atom, such as its bonding partners and oxidation state. 
+where *r*~i~ is the distance between atomic pairs and the *C*~n,ij~ are coefficients that depend on the chemical environment of the atom, such as its bonding partners and oxidation state. 
 
 ## Exchange-Hole Dipole Moment
 The exchange-hole dipole moment (XDM) model provides an ab initio method for calculating the atomic and molecular dispersion coefficients, which is in meaningful compromise with the empirical value. Despite the XDM computational precision, it requires a computationally intensive density-functionaltheory (DFT) calculation.
