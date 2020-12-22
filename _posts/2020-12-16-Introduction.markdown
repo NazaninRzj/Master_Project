@@ -15,7 +15,7 @@ Dispersion interaction is a temporary attractive non-bonded force arising from t
 
 The potential energy of London dispersion interaction ($V_disp$) can be approximated by,
 
-![V(i,j)=X(i,k) * Y(k, j); k=1 to n](http://www.sciweavers.org/tex2img.php?eq=%5Cmathcal%7BV%7D%7Btotal%7D%28r%29%20%3D%20%5Cmathcal%7BV%7D%7BDFT%7D%28r%29%20%2B%20%5Cmathcal%7BV%7D_disp%28r%29&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=)
+![LDF eqt](http://www.sciweavers.org/tex2img.php?eq=%5Cmathcal%7BV%7D_%7Bdisp%2Cij%7D%28%5Cmathrm%7Br_%7Bij%7D%7D%29%3D%20-%5Csum_%7Bn%3D6%2C8%2C10...%7D%20%5Cfrac%7BC_%7Bn%2Cij%7D%7D%7Br_%7Bij%7D%5En%7D%0A&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=)
 
 $$\mathcal{V}_{disp,ij}(\mathrm{r_{ij}})= -\sum_{n=6,8,10...} \frac{C_{n,ij}}{r_{ij}^n}$$
 
