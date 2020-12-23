@@ -19,7 +19,7 @@ By using XDM atomic coefficients (*C*6), dispersion energy can be added to DFT e
 <img src="/assets/img/All-plot.jpeg" alt="All-plot"
 	title="dispersion, damping function, and damping energy" width="150" height="100" />
   
-![All-plot](/assets/img/All-plot.jpeg)
+![All-plot](/assets/img/All-plot.png)
 
 Many dispersion models only include *C*6/*r*^6 term (e.g., Lennard-Jones function), but as indicated in Figure below for nearest-neighbour dispersion interactions, higher order terms of dispersion coefficients are also important (*C*8/*r*^8, *C*10/*r*^10) and they contribute ~50% of dispersion interaction at short range.
 
