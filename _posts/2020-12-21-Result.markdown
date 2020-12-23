@@ -19,6 +19,6 @@ By using XDM atomic coefficients (*C*6), dispersion energy can be added to DFT e
 
 ![All-plot](/assets/img/All-plot.jpeg)
 
-Many dispersion models only include ![disp frac](http://www.sciweavers.org/tex2img.php?eq=%5Cfrac%7BC_6%7D%7Br%5E6%7D&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=) term (e.g., Lennard-Jones function), but as indicated in Figure below for nearest-neighbour dispersion interactions, higher order terms of dispersion coefficients are also important (![c8](http://www.sciweavers.org/tex2img.php?eq=%5Cfrac%7BC_8%7D%7Br%5E8%7D&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=), ![c10](http://www.sciweavers.org/tex2img.php?eq=%5Cfrac%7BC_10%7D%7Br%5E10%7D&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=)) and they contribute ~50% of dispersion interaction at short range.
+Many dispersion models only include ![disp frac](http://www.sciweavers.org/tex2img.php?eq=%5Cfrac%7BC_6%7D%7Br%5E6%7D&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=) term (e.g., Lennard-Jones function), but as indicated in Figure below for nearest-neighbour dispersion interactions, higher order terms of dispersion coefficients are also important (![c8](http://www.sciweavers.org/tex2img.php?eq=%5Cfrac%7BC_8%7D%7Br%5E8%7D&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=), ![c10](http://www.sciweavers.org/tex2img.php?eq=%5Cfrac%7BC_10%7D%7Br%5E%7B10%7D%7D&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=)) and they contribute ~50% of dispersion interaction at short range.
 
 ![Energy-plot](/assets/img/Energy-plot.jpeg)
