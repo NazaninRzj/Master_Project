@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Results
-date: 2020-12-21
 description: This post will show the results of the dataset 
 img: results.jpg 
 ---
