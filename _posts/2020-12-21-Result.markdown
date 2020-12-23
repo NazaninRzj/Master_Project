@@ -17,7 +17,7 @@ By using XDM atomic coefficients ($C_6$), dispersion energy can be added to DFT 
 ![disp energy](http://www.sciweavers.org/tex2img.php?eq=%5Cmathcal%7BV%7D_%7Bdisp%2C6%7D%28r%29%20%3D%20-f_%7Bdamp%7D%28r%29%20%5Cfrac%20%7BC_6%7D%7Br%5E6%7D%0A&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=)
 
 
-![All-plot](https://github.com/NazaninRzj/Master_Project/tree/git-pages/assets/img/All-plot.jpeg?raw=true)
+![All-plot](/assets/img/All-plot.jpeg)
 
 Many dispersion models only include $\frac{C_6}{r^6}$ term (e.g., Lennard-Jones function), but as indicated in Figure below for nearest-neighbour dispersion interactions, higher order terms of dispersion coefficients are also important ($\frac{C_8}{r^8}, \frac{C_8}{r^{10}}$) and they contribute $\sim$50$\%$ of dispersion interaction at short range.
 
