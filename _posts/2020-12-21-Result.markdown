@@ -10,7 +10,7 @@ img: results.jpg
 
 ## XDM Dispersion Energy
 
-By using XDM atomic coefficients (![c6](http://www.sciweavers.org/tex2img.php?eq=C_6&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=)), dispersion energy can be added to DFT energy. Damping function applied to avoid singularity as r --> 0. 
+By using XDM atomic coefficients (*C*_6), dispersion energy can be added to DFT energy. Damping function applied to avoid singularity as r --> 0. 
 
 ![total_energy](http://www.sciweavers.org/tex2img.php?eq=%5Cmathcal%7BV%7D_%7Btotal%7D%28r%29%20%3D%20%5Cmathcal%7BV%7D_%7BDFT%7D%28r%29%20%2B%20%5Cmathcal%7BV%7D_%7Bdisp%7D%28r%29%0A&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=)
 
