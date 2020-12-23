@@ -17,7 +17,7 @@ The potential energy of London dispersion interaction ![v_disp](http://www.sciwe
 
 ![LDF eqt](http://www.sciweavers.org/tex2img.php?eq=%5Cmathcal%7BV%7D_%7Bdisp%2Cij%7D%28%5Cmathrm%7Br_%7Bij%7D%7D%29%3D%20-%5Csum_%7Bn%3D6%2C8%2C10...%7D%20%5Cfrac%7BC_%7Bn%2Cij%7D%7D%7Br_%7Bij%7D%5En%7D%0A&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=)
 
-where $ r_i $ is the distance between atomic pairs and the *C*~n,ij~ are coefficients that depend on the chemical environment of the atom, such as its bonding partners and oxidation state. 
+where ![distance](http://www.sciweavers.org/tex2img.php?eq=r_%7Bij%7D%0A&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=) is the distance between atomic pairs and the ![coefficient](http://www.sciweavers.org/tex2img.php?eq=C_%7Bn%2Cij%7D&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=) are coefficients that depend on the chemical environment of the atom, such as its bonding partners and oxidation state. 
 
 ## Exchange-Hole Dipole Moment
 The exchange-hole dipole moment (XDM) model provides an ab initio method for calculating the atomic and molecular dispersion coefficients, which is in meaningful compromise with the empirical value. Despite the XDM computational precision, it requires a computationally intensive density-functionaltheory (DFT) calculation.
