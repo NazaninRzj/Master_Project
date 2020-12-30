@@ -13,7 +13,7 @@ By using XDM atomic coefficients (*C*6), dispersion energy can be added to DFT e
 
 <p align="center">
 <img src="{{site.baseurl}}/assets/img/v_total_DFT_disp.png" alt="total_eng"
-	title="total energy" width="450" height="450" />
+	title="total energy" width="400" height="90" />
 </p>
 
 <p align="center">
@@ -32,3 +32,19 @@ Many dispersion models only include *C*6/*r*^6 term (e.g., Lennard-Jones functio
 <img src="{{site.baseurl}}/assets/img/Energy-plot.jpeg" alt="Energy-plot"
 	title="dispersion energies" width="450" height="450" />
 </p>
+
+The figure below illustrates that methane has the highest *C6* distribution compared to ammonia and water since carbon has greater atomic polarizability.
+
+<p align="center">
+<img src="{{site.baseurl}}/assets/img/violin_plot_CH4_NH3_H2O_c6-page-001.jpg" alt="violin-plot"
+	title="violin plot CH4-NH3-H2O" width="450" height="450" />
+</p>
+
+As shown in figure below,  the magnitude of the *C6* coefficient decreases with increasing oxidation number because of decreasing the electron density.
+
+<p align="center">
+<img src="{{site.baseurl}}/assets/img/violin_plot_n2_no_no2_c6.jpg" alt="violin-plot-2"
+	title="violin plot N2-HNO-HNO2" width="450" height="450" />
+</p>
+
+
