@@ -14,9 +14,9 @@ In recent years, researchers have employed neural networks to calculate molecula
 Dispersion interaction is a temporary attractive non-bonded force arising from the interaction between instantaneous dipole moments, which stems from fluctuations in the electron density of two atoms or molecules. Eventhough the dispersion interaction between a pair of atoms is weaker than other interactions (i.e., bonding electrostatic interactions or Pauli repulsion interaction), the dispersion energy plays a significant role in materials chemistry and biophysics, where dispersion interactions become significant in the condensed state.
 
 The potential energy of London dispersion interaction V_disp can be approximated by,
-
+<p align="center">
 <img src="{{site.baseurl}}/assets/img/v_disp.png" alt="V_disp"
-	title="dispersion energy equation" width="400" height="50" class="center"/>
+	title="dispersion energy equation" width="400" height="90"/>
 
 where *r* is the distance between atomic pairs and the *C* are coefficients that depend on the chemical environment of the atom, such as its bonding partners and oxidation state. 
 
