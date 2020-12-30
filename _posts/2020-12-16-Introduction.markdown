@@ -17,6 +17,7 @@ The potential energy of London dispersion interaction V_disp can be approximated
 <p align="center">
 <img src="{{site.baseurl}}/assets/img/v_disp.png" alt="V_disp"
 	title="dispersion energy equation" width="400" height="90"/>
+</p>
 
 where *r* is the distance between atomic pairs and the *C* are coefficients that depend on the chemical environment of the atom, such as its bonding partners and oxidation state. 
 
