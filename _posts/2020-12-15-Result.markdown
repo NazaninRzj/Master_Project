@@ -18,7 +18,7 @@ By using XDM atomic coefficients (*C*6), dispersion energy can be added to DFT e
 
 <p align="center">
 <img src="{{site.baseurl}}/assets/img/v_disp_2.png" alt="V_disp_2"
-	title="corrected dispersion energy equation" width="600" height="70"/>
+	title="corrected dispersion energy equation" width="400" height="50"/>
 </p>
 
 <p align="center">
