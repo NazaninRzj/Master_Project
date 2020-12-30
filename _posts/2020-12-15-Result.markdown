@@ -12,13 +12,13 @@ img: results.jpg
 By using XDM atomic coefficients (*C*6), dispersion energy can be added to DFT energy. Damping function applied to avoid singularity as r --> 0. 
 
 <p align="center">
-<img src="{{site.baseurl}}/assets/img/v_total_DFT_disp.png" alt="total_eng"
-	title="total energy" width="500" height="90" />
+<img src="{{site.baseurl}}/assets/img/v_total.png" alt="total_eng"
+	title="total energy" width="600" height="90" />
 </p>
 
 <p align="center">
 <img src="{{site.baseurl}}/assets/img/v_disp_2.png" alt="V_disp_2"
-	title="corrected dispersion energy equation" width="500" height="90"/>
+	title="corrected dispersion energy equation" width="600" height="90"/>
 </p>
 
 <p align="center">
