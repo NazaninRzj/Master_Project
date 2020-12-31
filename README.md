@@ -3,4 +3,4 @@
 I am developing a new model through machine learning algorithms to predict the dispersion energies of the molecules. 
 I am working in [Dr.Rowley's group](https://www.rowleygroup.net/)
 
-I explained a bit about my Master's thesis. You could find it [here](https://nazaninrzj.github.io/Master_Project/) if you are interested. 
+You could find some information about my Master's thesis [here](https://nazaninrzj.github.io/Master_Project/). 
